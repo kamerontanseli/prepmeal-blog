@@ -1,0 +1,14 @@
+- links:
+  - name: Pricing
+    link: /pricing/
+  - name: Blog
+    link: /blog/
+- links:
+  - name: Sign Up
+    link: /signup/
+    new_window: false
+- links:
+  - name: RSS
+    link: /feed.xml
+    social_icon: RSS
+    new_window: false
