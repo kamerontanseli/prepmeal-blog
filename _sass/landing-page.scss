@@ -3,7 +3,11 @@
 	color: #fff;
 	text-align: center;
 	margin: 0;
-	padding: 100px 0;
+  padding: 100px 0;
+  
+  @media screen and (max-width: 480px) {
+    padding: 100px 25px;
+  }
 
 	h2 {
 		margin-bottom: 50px;
