@@ -17,7 +17,7 @@ Cook up some amazing prepped dishes for yourself with these 10 meal prep recipes
 
 ![](/images/posts/2018-09-20/prep-1.png)
 
-[View Recipe](https://tasty.co/recipe/weekday-meal-prep-chicken-burrito-bowls)
+[View Recipe](https://tasty.co/recipe/weekday-meal-prep-chicken-burrito-bowls){:target="_blank"}
 
 ## 2. Overnight Oats Master Recipe
 
@@ -26,7 +26,7 @@ Cook up some amazing prepped dishes for yourself with these 10 meal prep recipes
 
 ![](https://workweeklunch.com/wp-content/uploads/2017/07/fullsizeoutput_c31.jpeg)
 
-[View Recipe](https://workweeklunch.com/recipe/breakfast-meal-prep-oats/)
+[View Recipe](https://workweeklunch.com/recipe/breakfast-meal-prep-oats/){:target="_blank"}
 
 ## 3. Greek Chicken Bowls
 
@@ -35,7 +35,7 @@ Cook up some amazing prepped dishes for yourself with these 10 meal prep recipes
 
 ![](https://www.eazypeazymealz.com/wp-content/uploads/2016/06/greek-chicken-meal-prep-1.jpg)
 
-[View Recipe](https://www.eazypeazymealz.com/greek-chicken-bowls-meal-prep-easy/)
+[View Recipe](https://www.eazypeazymealz.com/greek-chicken-bowls-meal-prep-easy/){:target="_blank"}
 
 ## 4. Beef and Broccoli stir fry
 
@@ -44,7 +44,7 @@ Cook up some amazing prepped dishes for yourself with these 10 meal prep recipes
 
 ![](https://lifemadesweeter.com/wp-content/uploads/Broccoli-Beef-Rice-Bowls-make-the-perfect-weeknight-dish-e1452110711311.jpg)
 
-[View Recipe](https://lifemadesweeter.com/beef-and-broccoli/)
+[View Recipe](https://lifemadesweeter.com/beef-and-broccoli/){:target="_blank"}
 
 ## 5. Spaghetti and Meatballs
 
@@ -53,7 +53,7 @@ Cook up some amazing prepped dishes for yourself with these 10 meal prep recipes
 
 ![](https://hips.hearstapps.com/del.h-cdn.co/assets/17/39/2048x1365/gallery-1506456062-delish-spaghetti-meatballs.jpg?resize=980:*)
 
-[View Recipe](https://www.delish.com/cooking/recipe-ideas/recipes/a55764/best-spaghetti-and-meatballs-recipe/)
+[View Recipe](https://www.delish.com/cooking/recipe-ideas/recipes/a55764/best-spaghetti-and-meatballs-recipe/){:target="_blank"}
 
 ## 6. Mediterranean tuna salad
 
@@ -62,7 +62,7 @@ Cook up some amazing prepped dishes for yourself with these 10 meal prep recipes
 
 ![](https://img.taste.com.au/1jAOXAA_/w720-h480-cfill-q80/taste/2016/11/mediterranean-tuna-salad-31059-1.jpeg)
 
-[View Recipe](https://www.taste.com.au/recipes/mediterranean-tuna-salad/e3fb7eaf-79cf-45f9-8e13-9592727b92b8)
+[View Recipe](https://www.taste.com.au/recipes/mediterranean-tuna-salad/e3fb7eaf-79cf-45f9-8e13-9592727b92b8){:target="_blank"}
 
 ## 7. Chicken Cassarole
 
@@ -71,7 +71,7 @@ Cook up some amazing prepped dishes for yourself with these 10 meal prep recipes
 
 ![](https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--908543_10.jpg?itok=7h3zI6zr)
 
-[View Recipe](https://www.bbcgoodfood.com/recipes/1993649/easy-onepot-chicken-casserole)
+[View Recipe](https://www.bbcgoodfood.com/recipes/1993649/easy-onepot-chicken-casserole){:target="_blank"}
 
 ## 8. Chickpea, Feta and Kale Salad Recipe
 
@@ -80,7 +80,7 @@ Cook up some amazing prepped dishes for yourself with these 10 meal prep recipes
 
 ![](https://mk08fito317fjb1b1.kinstacdn.com/wp-content/uploads/2018/02/chickpea_feta__kale_salad-recipe-salad-bowl.jpg)
 
-[View Recipe](https://8fit.com/recipes/chickpea-feta-kale-salad-recipe/)
+[View Recipe](https://8fit.com/recipes/chickpea-feta-kale-salad-recipe/){:target="_blank"}
 
 
 ## 9. No Flour, Sugar Free, Oil Free Healthy Oatmeal Muffins Recipe
@@ -90,7 +90,7 @@ Cook up some amazing prepped dishes for yourself with these 10 meal prep recipes
 
 ![](https://brendid.com/wp-content/uploads/2017/05/Healthy-Oatmeal-Muffins-from-Bren-Did-1-500x500.jpg)
 
-[View Recipe](https://brendid.com/healthy-oatmeal-muffins-no-flour-no-sugar-no-oil/)
+[View Recipe](https://brendid.com/healthy-oatmeal-muffins-no-flour-no-sugar-no-oil/){:target="_blank"}
 
 ## 10. Thai Green Chicken Curry
 
@@ -99,4 +99,4 @@ Cook up some amazing prepped dishes for yourself with these 10 meal prep recipes
 
 ![](http://www.dynamiccorestudios.co.uk/wp-content/uploads/2016/04/IMG_1678.jpg)
 
-[View Recipe](http://www.dynamiccorestudios.co.uk/meal-prep-thai-green-chicken-curry/)
+[View Recipe](http://www.dynamiccorestudios.co.uk/meal-prep-thai-green-chicken-curry/){:target="_blank"}
