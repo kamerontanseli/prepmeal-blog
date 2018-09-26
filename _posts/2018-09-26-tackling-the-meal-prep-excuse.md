@@ -4,6 +4,8 @@ categories: guide
 date: 2018-09-26
 ---
 
+![](https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4fa061122a5ce899fcb5454dae8dbe99&auto=format&fit=crop&w=1650&q=80)
+
 Meal planning can help you achieve your results faster. By preparing your meals for a select period of time you can better stick to calorie and diet regimes.
 
 So why don't more people prepare their meals? There are 4 main reasons as to why people don't meal prep:
