@@ -1,3 +1,4 @@
+rm -rf docs/
 yarn harp compile public/ -o docs/
 mv public/docs/ docs/
 git add -A
