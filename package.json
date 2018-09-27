@@ -1,0 +1,11 @@
+{
+  "name": "prepmeal-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kamerontanseli/prepmeal-blog.git",
+  "author": "Kameron Tanseli <kamerontanseliwork@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "harp": "^0.29.0"
+  }
+}
