@@ -1,0 +1,22 @@
+.steps {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 30px;
+}
+
+.step {
+  padding: 20px;
+  width: 768px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  @media screen and (max-width: 768px) {
+    width: auto;
+  }
+}
+
+.step__emoji {
+  font-size: 35px;
+  margin-right: 20px;
+}

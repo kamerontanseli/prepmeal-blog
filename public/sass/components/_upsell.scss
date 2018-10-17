@@ -1,0 +1,26 @@
+.upsell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 20px;
+  background-color: #16E7CF;
+}
+
+.upsell__content {
+  min-width: 700px;
+  @media screen and (max-width: 768px) {
+    min-width: auto;
+  }
+}
+
+.upsell__title {
+  text-align: center;
+  font-size: 2em;
+}
+
+.upsell__subtitle {
+  text-align: center;
+  font-size: 1em;
+  font-weight: 100;
+  margin-bottom: 30px;
+}

@@ -1,21 +1,83 @@
-<div class="container">
-  <img class="logo" src="/images/logo.svg" alt="Prep logo">
+<div class="hero">
+  <div class="hero__phone">
+    <div class="marvel-device iphone5c white" style="height: 556px;">
+      <div class="top-bar"></div>
+      <div class="sleep"></div>
+      <div class="volume"></div>
+      <div class="camera"></div>
+      <div class="sensor"></div>
+      <div class="speaker"></div>
+      <div class="screen">
+        <img style="width: 100%;" src="/images/meal_sc.png" alt="Swiping Recipe">
+      </div>
+      <div class="home"></div>
+      <div class="bottom-bar"></div>
+    </div>
+  </div>
+  <div class="hero__content">
+    <h3 class="hero__label">Introducing Prep</h3>
+    <h1 class="hero__title">Eat the meals you like. Get the results you want.</h1>
+    <%- partial('./partials/_mail_chimp_form') %>
+  </div>
+</div>
+<h1 class="title">How we make your lifestyle better</h1>
+<ol class="steps">
+  <li class="step">
+    <span class="step__emoji">🏋️‍</span> Choose your goal: Running, Gym, Swimming etc
+  </li>
+  <li class="step"><span class="step__emoji">👍</span> Swipe left on the recipes you like and right on the ones you
+    don’t</li>
+  <li class="step"><span class="step__emoji">🥅</span> We populate your week with recipes that you’ve liked that total
+    up to your calorie & nutrition goal</li>
+  <li class="step"><span class="step__emoji">💪</span> Enjoy meals and get the results you want</li>
+</ol>
 
-  <h1 class="title">Better meals. Better results.</h1>
+<div class="upsell">
+  <div class="upsell__content">
+    <h1 class="upsell__title">Don't miss out on a better way to eat.</h1>
+    <h3 class="upsell__subtitle">Get notified when we launch.</h3>
+    <%- partial('./partials/_mail_chimp_form') %>
+  </div>
+</div>
 
-  <img class="screenshot" src="/images/recipe_swipe.png" alt="Swiping Recipe">
+<footer class="footer">
+  &copy; Prep <%- new Date().getFullYear() %>
+</footer>
 
-  <ol class="list">
-    <li class="list-item">Choose your goal: Running, Gym, Swimming etc</li>
-    <li class="list-item">Swipe left on the recipes you like and right on the ones you don’t</li>
-    <li class="list-item">We populate your week with recipes that you’ve liked that total up to your calorie goal</li>
-    <li class="list-item">Enjoy meals and get the results you want</li>
+
+<!-- <div class="container">
+  <img class="logo" src="/images/logo.png" width="130" alt="Prep logo">
+
+  <h1 class="title">Prep</h1>
+  <h1 class="subtitle">Better meals. Better lifestyle.</h1>
+
+  <div class="marvel-device device note8" style="display: block; margin: 0 auto;">
+      <div class="inner"></div>
+      <div class="overflow">
+          <div class="shadow"></div>
+      </div>
+      <div class="speaker"></div>
+      <div class="sensors"></div>
+      <div class="more-sensors"></div>
+      <div class="sleep"></div>
+      <div class="volume"></div>
+      <div class="camera"></div>
+      <div class="screen">
+        <img class="screenshot" src="/images/meal_sc.png" alt="Swiping Recipe">
+      </div>
+  </div>
+
+  <ol class="step">
+    <li class="step-item">Choose your goal: Running, Gym, Swimming etc</li>
+    <li class="step-item">Swipe left on the recipes you like and right on the ones you don’t</li>
+    <li class="step-item">We populate your week with recipes that you’ve liked that total up to your calorie goal</li>
+    <li class="step-item">Enjoy meals and get the results you want</li>
   </ol>
 
   <h1 class="title title-push">Sign up now and take the stress out of meal planning</h1>
 
   <div id="mc_embed_signup">
-    <form action="https://github.us19.list-manage.com/subscribe/post?u=2b9acd33713c292e506e140b1&amp;id=23ae24dfd3"
+    <form action="https://github.us19.step-manage.com/subscribe/post?u=2b9acd33713c292e506e140b1&amp;id=23ae24dfd3"
       method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
 
       <div class="form">
@@ -29,4 +91,4 @@
           tabindex="-1" value=""></div>
     </form>
   </div>
-</div>
+</div> -->

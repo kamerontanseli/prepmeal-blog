@@ -1,0 +1,54 @@
+.hero {
+  padding: 20px;
+  background-color: #16E7CF;
+  display: flex;
+  height: 600px;
+  justify-content: center;
+
+  @media screen and (max-width: 768px) {
+    height: auto;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    padding-bottom: 0;
+  }
+}
+
+.hero__phone {
+  padding: 40px;
+  height: 580px;
+  overflow: hidden;
+
+  @media screen and (max-width: 768px) {
+    height: 350px;
+    padding: 0;
+
+    > .iphone5c {
+      margin: 0 auto;
+      display: block;
+      max-width: 80%;
+    }
+  }
+}
+
+.hero__content {
+  padding: 40px;
+  @media screen and (max-width: 768px) {
+    padding: 0;
+    margin-bottom: 20px;
+  }
+}
+
+.hero__label {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.hero__title {
+  max-width: 600px;
+  font-size: 3em;
+  margin-top: 0;
+  @media screen and (max-width: 768px) {
+    font-size: 2em;
+  }
+}
